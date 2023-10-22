@@ -1,3 +1,3 @@
 # fu-1810
 
-Flashcards for the course 1810 (Compilerbau) of Fernuni Hagen. The markdown files are designed to work with the [recall plugin](https://marketplace.visualstudio.com/items?itemName=frenya.vscode-recall)
+Flashcards and example programs for the course 1810 (Compilerbau) of Fernuni Hagen. The markdown files are designed to work with the [recall plugin](https://marketplace.visualstudio.com/items?itemName=frenya.vscode-recall)
